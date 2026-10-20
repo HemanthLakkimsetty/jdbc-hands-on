@@ -24,7 +24,6 @@ public class Main {
             }
         }
     }
-
     private static boolean isDatabaseAvailable() {
         try (Connection connection = Database.connect()) {
             if (!connection.isValid(2)) {
