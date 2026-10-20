@@ -80,7 +80,7 @@ Check-out (YYYY-MM-DD): 2026-11-12
 
 ### Expected Result
 
-Display the reservation ID and total amount if the reservation is created successfully.
+Display reservation ID and total amount if the reservation is created successfully.
 
 ---
 
